@@ -1,0 +1,50 @@
+{
+  "culture": "es",
+  "texts": {
+    "Menu:Home": "Inicio",
+    "Welcome": "Bienvenido",
+    "LongWelcomeMessage": "Bienvenido a la EasyFwd, esta es la mejor herramienta segura para la gestión de carga suelta",
+
+    "Menu:EasyFwd": "Easy Fwd",
+    "Menu:Servicios": "Servicios",
+    "Actions": "Acciones",
+    "Close": "Cerrar",
+    "Delete": "Eliminar",
+    "Edit": "Editar",
+    "NewServicio": "Nuevo Servicio",
+
+    "Nombre": "Nombre",
+    "Type": "Type",
+    "Price": "Price",
+    "CreationTime": "Creation time",
+
+    "AreYouSure": "Estas seguro?",
+    "AreYouSureToDelete": "estas seguro que quieres eliminar este item?",
+
+    "Enum:TipoCategoria.0": "Importación/Exportación",
+    "Enum:TipoCategoria.1": "Importación",
+    "Enum:TipoCategoria.2": "Exportación",
+
+    "Enum:TipoVisibilidad.0": "Todos",
+    "Enum:TipoVisibilidad.1": "Internos",
+    "Enum:TipoVisibilidad.2": "Externos",
+
+    "Enum:TipoCarga.0": "Contenerizada",
+    "Enum:TipoCarga.1": "Carga Suelta",
+
+    "Enum:Estado.0": "Activo",
+    "Enum:Estado.1": "Inactivo",
+
+    "Enum:Confirmacion.0": "No",
+    "Enum:Confirmacion.1": "Si",
+
+    "RequiereHoras": "Requiere Horas",
+
+    "Permission:EasyFwdNow": "Easy Fwd",
+    "Permission:Servicios": "Gestión de servicios",
+    "Permission:Servicios.Create": "Creación de servicios",
+    "Permission:Servicios.Edit": "Edición de servicios",
+    "Permission:Servicios.Delete": "Eliminacion de servicios"
+
+  }
+}
